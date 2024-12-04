@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4",
+    "hardhat": "^2.22.16"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.1.0",
+    "glob": "^11.0.0",
+    "qrcode": "^1.5.4"
+  }
+}
